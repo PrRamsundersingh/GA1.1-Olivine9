@@ -3,6 +3,7 @@ Subteam A: Branched to make an add function. Call the "add" function along with 
 ## Subteam B:
 subtract(a,b) function: performs a-b for two numbers a and b.
 sum_list(values) function: sums all values in a list, values. 
+.
 ## Subteam A: 
 Branched to make an add function. Call the "add" function along with two variables "a" and "b" and then print this to get the result, for example: print(add(2, 10))
 
