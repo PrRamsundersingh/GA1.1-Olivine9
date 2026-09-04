@@ -1,15 +1,16 @@
 # GA1.1-Olivine9
 Subteam A: Branched to make an add function. Call the "add" function along with two variables "a" and "b" and then print this to get the result, for example: print(add(2, 10))
-## Subteam B:
-subtract(a,b) function: performs a-b for two numbers a and b.
-sum_list(values) function: sums all values in a list, values. 
-.
+
 ## Subteam A: 
 Branched to make an add function. Call the "add" function along with two variables "a" and "b" and then print this to get the result, for example: print(add(2, 10))
 
 In the extension, a new function is written to calcute the distance from zero.
 Branched to make an add function. Call the "add" function along with two variables "a" and "b" and then print this to get the result, for example: print(add(2, 10)). Extension function added to multiply notebook with the definition of the square function. This calls the multiply function and multiplies the input by itself. To see the result use for example: print(square(4))
-Subteam B: Subtract(a,b) function: performs a-b for two numbers a and b.
+
+## Subteam B:
+subtract(a,b) function: performs a-b for two numbers a and b.
+sum_list(values) function: sums all values in a list, values. 
+
 ## Subteam C:
 The function "multiply" return values multiply1 and multiply2. multiply1 is the returns the value of a times b and multiply2 returns the value of a squared times b squared.
 
